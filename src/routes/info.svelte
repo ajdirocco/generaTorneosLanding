@@ -12,11 +12,10 @@
 		<p
 		  class="mt-0 text-3xl leading-8 font-extrabold tracking-tight text-indigo-500 sm:text-4xl text-center"
 		>
-		  La manera mas rápida de generar torneos
+		  Crea tus torneos
 		</p>
 		<p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto text-center">
-		  Aleatoriamente se genera toda la
-		  info. Podes editar todo lo que veas entre rayitas.
+		  Con un click genera toda la info. Edita lo que veas entre rayitas.
 		</p>
 	  </div>
 
@@ -30,7 +29,7 @@
 				💲 Precio
 			  </dt>
 			  <dd class="mt-2 text-base text-gray-500 text-justify">
-				Esta versión de desarrollo es <b>gratuita</b>. Eventualmente se tendrá más versioines con algún plan de subscripcón o patricinio.
+				Esta versión de desarrollo es <b>gratuita</b>. Eventualmente se tendrá más versioines con algún plan de subscripcón o patrocinio.
 			  </dd>
 			</div>
 		  </div>
