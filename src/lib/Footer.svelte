@@ -9,7 +9,7 @@
     <p class=" text-sm text-gray-800">
         ©{appFecha}
         <a
-            href="https://generatorneosapp.web.app/"
+            href="https://generatorneos.netlify.app/"
             class="font-medium text-indigo-700  hover:text-indigo-900 focus:outline-none focus:border-none"
             rel="noopener noreferrer"
         >

@@ -9,7 +9,7 @@ class="container mx-auto flex px-5 py-1 mt-1 items-center justify-center flex-co
   </h1>
   <div class="flex justify-center">
     <a
-      href="https://generatorneosapp.web.app/"
+      href="https://generatorneos.netlify.app/"
       class="mb-6 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
       >Crea un Torneo</a
     >
@@ -67,7 +67,7 @@ class="container mx-auto flex px-5 py-5 mt-3 md:mt-0 items-center justify-center
     </p>
     <div class="flex justify-center">
       <a
-        href="https://generatorneosapp.web.app/"
+        href="https://generatorneos.netlify.app/"
         class="mb-6 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
         >Crea un Torneo</a
       >
