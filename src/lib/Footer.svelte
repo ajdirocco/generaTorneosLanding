@@ -1,6 +1,5 @@
 <script>
     let appNombre = import.meta.env.VITE_APP_NAME_CAPTION
-    let appVersion = import.meta.env.VITE_APP_VERSION
     let appFecha = import.meta.env.VITE_APP_YEAR
 </script>
 
