@@ -9,9 +9,7 @@
 <div class=" bg-white" transition:fade>
 	<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 	  <div class="lg:text-center">
-		<p
-		  class="mt-0 text-3xl leading-8 font-extrabold tracking-tight text-indigo-500 sm:text-4xl text-center"
-		>
+		<p class="mt-0 text-3xl leading-8 font-extrabold tracking-tight text-indigo-500 sm:text-4xl text-center">
 		  Crea tus torneos
 		</p>
 		<p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto text-center">
@@ -29,7 +27,7 @@
 				💲 Precio
 			  </dt>
 			  <dd class="mt-2 text-base text-gray-500 text-justify">
-				Esta versión de desarrollo es <b>gratuita</b>. Eventualmente se tendrá más versioines con algún plan de subscripcón o patrocinio.
+				Esta versión es <b>gratuita</b>. Eventualmente se desarrollarán nuevas versiones con algún tipo subscripcón.
 			  </dd>
 			</div>
 		  </div>
@@ -51,11 +49,11 @@
 				🏆 Versión actual
 			  </dt>
 			  <dd class="mt-2 text-base text-gray-500 text-justify">
-				Se generan torneos del tipo campeonato (<b>round-robin</b>) y se graban localmente en el dispositivo.
+				Se generan dos tipos de torneo: <b>Campeonato</b> (round-robin) y <b>Copa</b> (grupos y llaves). Todo torneo se graba localmente en el dispositivo y puede ser compartido a través de la opción Exportar.
 			  </dd>
 			</div>
 		  </div>
-
+<!-- 
 		  <div class="flex">
 			<div class="ml-4">
 			  <dt class="text-lg leading-6 font-medium text-gray-900">
@@ -66,9 +64,9 @@
 				<b>compartir la edición</b> con otros usuarios y acceder a los torneos desde <b>todos tus dispositivos</b>.
 			  </dd>
 			</div>
-		  </div>
+		  </div> -->
 		</dl>
 	  </div>
 	</div>
-  </div>
+</div>
 
