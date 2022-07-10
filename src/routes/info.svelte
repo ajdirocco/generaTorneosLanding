@@ -53,7 +53,23 @@
 			  </dd>
 			</div>
 		  </div>
-<!-- 
+		  <div class="flex">
+			<div class="ml-4">
+			  <dt class="text-lg leading-6 font-medium text-gray-900">
+				😀 Apps
+			  </dt>
+			  <dd class="mt-2 text-base text-gray-500 text-justify">
+				Quizas te interesen estas otras aplicaciones:
+			  </dd>
+			  	<a href="https://generapaplicaciones.netlify.app/"
+			  		class="mt-4 inline-flex items-center py-1 text-indigo-700  hover:text-indigo-900  text-base md:mt-0 cursor-pointer focus:outline-none focus:border-none"
+			  		rel="noopener noreferrer"
+			  		target="_blank">
+			  		Genera Aplicaciones.
+		  		</a>
+			</div>
+		  </div>
+<!--
 		  <div class="flex">
 			<div class="ml-4">
 			  <dt class="text-lg leading-6 font-medium text-gray-900">
